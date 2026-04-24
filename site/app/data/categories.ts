@@ -1,0 +1,15 @@
+export const categories = [
+  { id: "sosyal-medya", title: "Sosyal Medya", image: "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?q=80&w=900&auto=format&fit=crop" },
+  { id: "mobil-oyunlar", title: "Mobil Oyunlar", image: "https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=900&auto=format&fit=crop" },
+  { id: "reklam", title: "Reklam Satışı", image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=900&auto=format&fit=crop" },
+  { id: "boost", title: "Boost Hizmetleri", image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=900&auto=format&fit=crop" },
+  { id: "yazilim", title: "Yazılım Ürünleri", image: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=900&auto=format&fit=crop" },
+  { id: "diger", title: "Diğer Ürün Satışları", image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?q=80&w=900&auto=format&fit=crop" },
+  { id: "valorant", title: "Valorant", image: "https://images.unsplash.com/photo-1542751110-97427bbecf20?q=80&w=900&auto=format&fit=crop" },
+  { id: "roblox", title: "Roblox", image: "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?q=80&w=900&auto=format&fit=crop" },
+  { id: "discord", title: "Discord", image: "https://images.unsplash.com/photo-1611605698323-b1e99cfd37ea?q=80&w=900&auto=format&fit=crop" },
+  { id: "pubg-mobile", title: "PUBG Mobile", image: "https://images.unsplash.com/photo-1560253023-3ec5d502959f?q=80&w=900&auto=format&fit=crop" },
+  { id: "cs2", title: "Counter Strike CS2", image: "https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=900&auto=format&fit=crop" },
+  { id: "minecraft", title: "Minecraft", image: "https://images.unsplash.com/photo-1627856013091-fed6e4e30025?q=80&w=900&auto=format&fit=crop" },
+  { id: "fortnite", title: "Fortnite", image: "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=900&auto=format&fit=crop" },
+];
